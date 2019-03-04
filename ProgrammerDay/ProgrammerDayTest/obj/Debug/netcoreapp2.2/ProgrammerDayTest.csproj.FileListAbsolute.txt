@@ -1,0 +1,17 @@
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/ProgrammerDay/ProgrammerDayTest/obj/Debug/netcoreapp2.2/ProgrammerDayTest.csprojAssemblyReference.cache
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/ProgrammerDay/ProgrammerDayTest/obj/Debug/netcoreapp2.2/ProgrammerDayTest.csproj.CoreCompileInputs.cache
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/ProgrammerDay/ProgrammerDayTest/obj/Debug/netcoreapp2.2/ProgrammerDayTest.AssemblyInfoInputs.cache
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/ProgrammerDay/ProgrammerDayTest/obj/Debug/netcoreapp2.2/ProgrammerDayTest.AssemblyInfo.cs
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/ProgrammerDay/ProgrammerDayTest/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/ProgrammerDay/ProgrammerDayTest/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/ProgrammerDay/ProgrammerDayTest/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/ProgrammerDay/ProgrammerDayTest/bin/Debug/netcoreapp2.2/ProgrammerDayTest.deps.json
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/ProgrammerDay/ProgrammerDayTest/bin/Debug/netcoreapp2.2/ProgrammerDayTest.runtimeconfig.json
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/ProgrammerDay/ProgrammerDayTest/bin/Debug/netcoreapp2.2/ProgrammerDayTest.runtimeconfig.dev.json
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/ProgrammerDay/ProgrammerDayTest/bin/Debug/netcoreapp2.2/ProgrammerDayTest.dll
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/ProgrammerDay/ProgrammerDayTest/bin/Debug/netcoreapp2.2/ProgrammerDayTest.pdb
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/ProgrammerDay/ProgrammerDayTest/bin/Debug/netcoreapp2.2/ProgrammerDay.dll
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/ProgrammerDay/ProgrammerDayTest/bin/Debug/netcoreapp2.2/ProgrammerDay.pdb
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/ProgrammerDay/ProgrammerDayTest/obj/Debug/netcoreapp2.2/ProgrammerDayTest.csproj.CopyComplete
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/ProgrammerDay/ProgrammerDayTest/obj/Debug/netcoreapp2.2/ProgrammerDayTest.dll
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/ProgrammerDay/ProgrammerDayTest/obj/Debug/netcoreapp2.2/ProgrammerDayTest.pdb

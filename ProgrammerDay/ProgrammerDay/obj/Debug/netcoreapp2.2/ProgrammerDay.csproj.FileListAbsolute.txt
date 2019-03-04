@@ -1,0 +1,11 @@
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/ProgrammerDay/ProgrammerDay/bin/Debug/netcoreapp2.2/ProgrammerDay.deps.json
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/ProgrammerDay/ProgrammerDay/bin/Debug/netcoreapp2.2/ProgrammerDay.runtimeconfig.json
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/ProgrammerDay/ProgrammerDay/bin/Debug/netcoreapp2.2/ProgrammerDay.runtimeconfig.dev.json
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/ProgrammerDay/ProgrammerDay/bin/Debug/netcoreapp2.2/ProgrammerDay.dll
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/ProgrammerDay/ProgrammerDay/bin/Debug/netcoreapp2.2/ProgrammerDay.pdb
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/ProgrammerDay/ProgrammerDay/obj/Debug/netcoreapp2.2/ProgrammerDay.csprojAssemblyReference.cache
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/ProgrammerDay/ProgrammerDay/obj/Debug/netcoreapp2.2/ProgrammerDay.csproj.CoreCompileInputs.cache
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/ProgrammerDay/ProgrammerDay/obj/Debug/netcoreapp2.2/ProgrammerDay.AssemblyInfoInputs.cache
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/ProgrammerDay/ProgrammerDay/obj/Debug/netcoreapp2.2/ProgrammerDay.AssemblyInfo.cs
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/ProgrammerDay/ProgrammerDay/obj/Debug/netcoreapp2.2/ProgrammerDay.dll
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/ProgrammerDay/ProgrammerDay/obj/Debug/netcoreapp2.2/ProgrammerDay.pdb
